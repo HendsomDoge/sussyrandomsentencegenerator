@@ -1,0 +1,25 @@
+{
+  "short_name": "Random Sentence",
+  "name": "Random Sussy Sentence Generator",
+  "icons": [
+    {
+      "src": "https://cdn.discordapp.com/attachments/876085640423436318/885397330226982912/froge_butt.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "https://cdn.discordapp.com/attachments/876085640423436318/885397330226982912/froge_butt.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://cdn.discordapp.com/attachments/876085640423436318/885397330226982912/froge_butt.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
